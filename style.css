@@ -33,7 +33,7 @@ input::placeholder{
     color: #c2c2c2;
 }
 button{
-    background-color: rgb(67, 67, 255);
+    background-color: rgb(128, 128, 240);
     color: white;
     border: 3px solid #ffffff;
     border-radius: 8px;
@@ -47,5 +47,6 @@ button{
     color: rgb(245, 147, 0);
 }
 button:hover{
-    background-color: rgb(128, 128, 240);
+    background-color: rgb(67, 67, 255);
+    
 }
